@@ -1169,7 +1169,7 @@ nginx:
 # ansible-playbook playbooks/ansible.yml
 # ansible-playbook playbooks/gitlab.yml
 # ansible-playbook playbooks/firewallbuilder.yml
-# ansible-playbook playbooks/testbuilder.yml
+# ansible-playbook playbooks/testfirewall.yml
 # ansible-playbook playbooks/firewall.yml --skip-tags=deploy
 # ansible-playbook playbooks/rsyslog.yml 
 ```
